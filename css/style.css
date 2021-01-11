@@ -1,13 +1,15 @@
-body, h1, div{
+body, h1, div {
     background-color: #808080;
 }
-h1{
+
+h1 {
     color:white;
     width: 2em;
     height: 30px;
 }
-td{
+
+div {
     background-color: #fea500;
-    width: 10em;
+    width: 150px;
     height: 150px;
 } 
